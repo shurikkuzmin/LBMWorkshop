@@ -2,9 +2,9 @@
 These are the lectures, coding examples and exercises presented in the Lattice Boltzmann Method Workshop (Edmonton 2011). 
 
 ## Jos
-!Day	!Files and links!
-!-------!--------------:!
-!Monday	!Lectures:Notes !
+! Day	 ! Files and links !
+!--------!----------------:!
+! Monday ! Lectures:Notes  !
 
 ## Alex
 !Day	    !Files and links                                                                  !
