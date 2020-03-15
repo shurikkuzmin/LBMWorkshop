@@ -2,23 +2,23 @@
 These are the lectures, coding examples and exercises presented in the Lattice Boltzmann Method Workshop (Edmonton 2011). 
 
 ## Jos
-| Day	 | Files and links |
-|--------|----------------:|
-| Monday | Lectures:Notes  |
+| Day	    | Files and links                                                                  |
+|-----------|----------------------------------------------------------------------------------|
+| Monday    | Lectures: Notes                                                                  |
 
 ## Alex
-|Day	    |Files and links                                                                  |
-|-----------|--------------------------------------------------------------------------------:|
-|Monday 	|Lectures:Introduction, TRT/MRT lecture                                          
-             Coding (Taylor-Green):Exercises description, Exercise 1, Exercise 2, Exercise 3
-             Coding (Four-rows mill):Exercise 1, Exercise 2
-             Solution:Taylor-Green, TRT Taylor-Green, Four-rows mill, Four-rows mill (TRT)    |
-
-
-Wednesday	Lectures:Shan-Chen, Binary-Liquid
-Coding: Exercises description
-
-Coding (Shan-Chen):Exercise 1 (Matlab), Exercise 1 (C++), Exercise 2, Exercise 3 (C++), Exercise 3 (Matlab), Visualization of C++ files with Matlab, Gas-liquid curve
+| Day       | Files and links                                                                  |
+|-----------|----------------------------------------------------------------------------------|
+| Monday    | Lectures: Introduction, TRT/MRT lecture                                          |
+|           | Coding (Taylor-Green): Exercises description, Exercise 1, Exercise 2, Exercise 3 |
+|           | Coding (Four-rows mill): Exercise 1, Exercise 2                                  |
+|           | Solution: Taylor-Green, TRT Taylor-Green, Four-rows mill, Four-rows mill (TRT)   |
+|-----------|----------------------------------------------------------------------------------|
+| Wednesday	| Lectures: Shan-Chen, Binary-Liquid                                               |
+|           | Coding: Exercises description                                                    |
+|           | Coding (Shan-Chen): Exercise 1 (Matlab), Exercise 1 (C++), Exercise 2,           |
+|           |                     Exercise 3 (C++), Exercise 3 (Matlab),                       |
+|           |                     Visualization of C++ files with Matlab, Gas-liquid curve     |
 
 Coding (Binary-Liquid):Exercise 1, Exercise 2, Exercise 3, Shear droplet analysis, Contact angle analysis
 
