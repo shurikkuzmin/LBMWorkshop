@@ -2,17 +2,17 @@
 These are the lectures, coding examples and exercises presented in the Lattice Boltzmann Method Workshop (Edmonton 2011). 
 
 ## Jos
-! Day	 ! Files and links !
-!--------!----------------:!
-! Monday ! Lectures:Notes  !
+| Day	 | Files and links |
+|--------|----------------:|
+| Monday | Lectures:Notes  |
 
 ## Alex
-!Day	    !Files and links                                                                  !
-!-----------!---------------------------------------------------------------------------------!
-!Monday 	!Lectures:Introduction, TRT/MRT lecture                                          
+|Day	    |Files and links                                                                  |
+|-----------|--------------------------------------------------------------------------------:|
+|Monday 	|Lectures:Introduction, TRT/MRT lecture                                          
              Coding (Taylor-Green):Exercises description, Exercise 1, Exercise 2, Exercise 3
              Coding (Four-rows mill):Exercise 1, Exercise 2
-             Solution:Taylor-Green, TRT Taylor-Green, Four-rows mill, Four-rows mill (TRT)    !
+             Solution:Taylor-Green, TRT Taylor-Green, Four-rows mill, Four-rows mill (TRT)    |
 
 
 Wednesday	Lectures:Shan-Chen, Binary-Liquid
