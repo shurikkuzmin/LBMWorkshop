@@ -9,16 +9,8 @@ These are the lectures, coding examples and exercises presented in the Lattice B
 ## Alex
 | Day       | Files and links                                                                    |
 |-----------|------------------------------------------------------------------------------------|
-| Monday<br/><br/><br/> | Lectures: Introduction, TRT/MRT lecture <br/> Coding (Taylor-Green): Exercises description, Exercise 1, Exercise 2, Exercise 3 <br/> Coding (Four-rows mill): Exercise 1, Exercise 2 <br/> Solution: Taylor-Green, TRT Taylor-Green, Four-rows mill, Four-rows mill (TRT)   |
-| Wednesday	| Lectures: Shan-Chen, Binary-Liquid                                                 |
-|           | Coding: Exercises description                                                    |
-|           | Coding (Shan-Chen): Exercise 1 (Matlab), Exercise 1 (C++), Exercise 2,           |
-|           |                     Exercise 3 (C++), Exercise 3 (Matlab),                        |
-|           |                     Visualization of C++ files with Matlab, Gas-liquid curve      |
-
-Coding (Binary-Liquid):Exercise 1, Exercise 2, Exercise 3, Shear droplet analysis, Contact angle analysis
-
-Solution:Shan-Chen model, Binary-liquid model
+| Monday<br/><br/><br/>    | Lectures: Introduction, TRT/MRT lecture <br/> Coding (Taylor-Green): Exercises description, Exercise 1, Exercise 2, Exercise 3 <br/> Coding (Four-rows mill): Exercise 1, Exercise 2 <br/> Solution: Taylor-Green, TRT Taylor-Green, Four-rows mill, Four-rows mill (TRT)   |
+| Wednesday<br/><br/><br/> | Lectures: Shan-Chen, Binary-Liquid <br/> Coding: Exercises description <br/> Coding (Shan-Chen): Exercise 1 (Matlab), Exercise 1 (C++), Exercise 2, <br/> Exercise 3 (C++), Exercise 3 (Matlab) <br/> Visualization of C++ files with Matlab, Gas-liquid curve <br/> Coding (Binary-Liquid): Exercise 1, Exercise 2, Exercise 3, <br/> Shear droplet analysis, Contact angle analysis <br/> Solution:Shan-Chen model, Binary-liquid model |
 
 ## Timm
 Day	Files and links
