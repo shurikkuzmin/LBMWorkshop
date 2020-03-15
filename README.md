@@ -9,10 +9,7 @@ These are the lectures, coding examples and exercises presented in the Lattice B
 ## Alex
 | Day       | Files and links                                                                    |
 |-----------|------------------------------------------------------------------------------------|
-| Monday<br/><br/><br/> | Lectures: Introduction, TRT/MRT lecture <br/>                                           
-                          Coding (Taylor-Green): Exercises description, Exercise 1, Exercise 2, Exercise 3 <br/>
-                          Coding (Four-rows mill): Exercise 1, Exercise 2 <br/>
-                          Solution: Taylor-Green, TRT Taylor-Green, Four-rows mill, Four-rows mill (TRT)   |
+| Monday<br/><br/><br/> | Lectures: Introduction, TRT/MRT lecture <br/> Coding (Taylor-Green): Exercises description, Exercise 1, Exercise 2, Exercise 3 <br/> Coding (Four-rows mill): Exercise 1, Exercise 2 <br/> Solution: Taylor-Green, TRT Taylor-Green, Four-rows mill, Four-rows mill (TRT)   |
 | Wednesday	| Lectures: Shan-Chen, Binary-Liquid                                                 |
 |           | Coding: Exercises description                                                    |
 |           | Coding (Shan-Chen): Exercise 1 (Matlab), Exercise 1 (C++), Exercise 2,           |
